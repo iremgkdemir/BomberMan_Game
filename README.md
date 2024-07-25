@@ -41,7 +41,7 @@ Bu projeyi çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 - **[Münevver İrem Gökdemir](https://github.com/iremgkdemir)** - Geliştirici
 - **[Nizamettin Doğukan Gerçek](https://github.com/DogukanGercek)** - Geliştirici
 - **[Faruk Yıldırım](https://github.com/ch4rybdis)** - Tasarımcı
-- **[Ferhat Bozkurt]()** - Tasarımcı
+- **[Ferhat Bozkurt](https://github.com/ferhatbozkurt123)** - Tasarımcı
 - **[Ömer Murat Aydın](https://github.com/aydinomer00)** - QA Test Uzmanı - Proje Planlama Uzmanı
 
 
